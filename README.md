@@ -15,7 +15,7 @@ Project Structure
 - README.md: Documentation file providing an overview, setup instructions, and usage details.
 
 Getting Started
-1. Download the Excel file: [Supply-Chain-Dashboard.xlsx](./Supply-Chain-Dashboard.xlsx).
+1. Download the Excel file: [Supply-Chain-Dashboard.xlsx](./Supply Chain Analysis.xlsx).
 2. Open the file in Microsoft Excel (preferably version 2016 or newer for compatibility).
 3. Review the "Data" sheet for raw data inputs. Modify this sheet if you wish to analyze different data sets.
 4. Navigate to the "Dashboard" sheet to view the visualizations and analyze the supply chain metrics.
